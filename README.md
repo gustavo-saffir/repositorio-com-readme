@@ -9,7 +9,7 @@ Um projeto de teste com um arquivo README 🚀
 - JS
 ## Como Utilizar
 
-1 - Clone pro o projeto
+1 - Clone para o projeto
 ```
 git clone <url>
 ```
